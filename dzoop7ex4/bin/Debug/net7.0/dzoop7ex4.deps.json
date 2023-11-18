@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "dzoop7ex4/1.0.0": {
+        "runtime": {
+          "dzoop7ex4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dzoop7ex4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
